@@ -1,0 +1,9 @@
+{
+	"name": "AzuredemoDFGIT",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "102fa1ee-8e0f-489b-9227-d4bcd2063680",
+		"tenantId": "86e7fa81-7a81-4773-aadd-fd41be0a1a5a"
+	}
+}
